@@ -1,4 +1,4 @@
-plugins {
+applicationplugins {
     id 'com.android.application'
     id 'kotlin-android'
     id 'com.google.android.gms.oss-licenses-plugin'
